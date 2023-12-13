@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Random_class-Gaussian_random_numbers:main" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Random class/Gaussian random numbers" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Last Pencil (Java)" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../../Topics/Random class/Gaussian random numbers/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Random class/Gaussian random numbers/src">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../Topics/Random class/Gaussian random numbers/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="509f6481-9564-492b-99fa-a39f750047d1" />
+  </component>
+</module>

@@ -1,0 +1,22 @@
+
+u	java:S135U"YReduce the total number of break and continue statements in this loop to use at most one.(«ŞŒ´8 ï¿¡Æ1
+V
+java:S1854":Remove this useless assignment to local variable "theBot".(å¿İ8«ã¡Æ1
+G
+java:S1481"+Remove this unused "theBot" local variable.(å¿İ8”‘å¡Æ1
+G	java:S106"+Replace this use of System.out by a logger.(‹†É´8¢ğ¿¡Æ1
+L	java:S106*"+Replace this use of System.out by a logger.(ÅË¯¼ûÿÿÿÿ8¤ğ¿¡Æ1
+L	java:S106/"+Replace this use of System.out by a logger.(ãâóğùÿÿÿÿ8¥ğ¿¡Æ1
+G	java:S106C"+Replace this use of System.out by a logger.(ôº¯Æ8¦ğ¿¡Æ1
+L	java:S106K"+Replace this use of System.out by a logger.(‹‡ˆĞúÿÿÿÿ8¨ğ¿¡Æ1
+L	java:S106Z"+Replace this use of System.out by a logger.(åé¹ıÿÿÿÿ8ªğ¿¡Æ1
+L	java:S106_"+Replace this use of System.out by a logger.(âúô¯ÿÿÿÿÿ8«ğ¿¡Æ1
+L	java:S106f"+Replace this use of System.out by a logger.(åé¹ıÿÿÿÿ8«ğ¿¡Æ1
+L	java:S106t"+Replace this use of System.out by a logger.(¶î½ıÿÿÿÿ8­ğ¿¡Æ1
+H	java:S106‚"+Replace this use of System.out by a logger.(ÒÇü³8®ğ¿¡Æ1
+H	java:S106„"+Replace this use of System.out by a logger.(‘É‹û8¯ğ¿¡Æ1
+M	java:S106"+Replace this use of System.out by a logger.(ÚŒù²ùÿÿÿÿ8±ğ¿¡Æ1
+M	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8±ğ¿¡Æ1
+?	java:S131¸""Add a default case to this switch.(©şÖ½8µğ¿¡Æ1
+A
+java:S2119½"Save and re-use this "Random".(ÕßÊ‡ûÿÿÿÿ8·ğ¿¡Æ1

@@ -1,0 +1,11 @@
+
+7
+java:S1220""Move this file to a named package.8ûóœÆ1
+V
+java:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(‡ş¹Á8¼ôœÆ1
+V
+java:S2130	"9Use "Integer.parseInt" for this string-to-int conversion.(ÀÜÍ8¼ôœÆ1
+[
+java:S2130
+">Use "Double.parseDouble" for this string-to-double conversion.(êóå8Åô²Æ1
+L	java:S106 "+Replace this use of System.out by a logger.(æ–İ€ÿÿÿÿÿ8¹Å¯Æ1

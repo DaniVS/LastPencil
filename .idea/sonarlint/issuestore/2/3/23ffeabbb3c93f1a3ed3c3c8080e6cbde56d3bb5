@@ -1,0 +1,14 @@
+
+7
+java:S1220""Move this file to a named package.8ÎÀ¢œÆ1
+_
+java:S1226'"BIntroduce a new variable instead of reusing the parameter "array".(¾Ã‡ë8ĞÀ¢œÆ1
+L	java:S106"+Replace this use of System.out by a logger.(í£†—ıÿÿÿÿ8æÀ¢œÆ1
+L	java:S106"+Replace this use of System.out by a logger.(ÉÀÕóşÿÿÿÿ8çÀ¢œÆ1
+G	java:S106"+Replace this use of System.out by a logger.(ˆÿ™8èÀ¢œÆ1
+L	java:S106"+Replace this use of System.out by a logger.(ç¹ƒ¾øÿÿÿÿ8éÀ¢œÆ1
+G	java:S106"+Replace this use of System.out by a logger.(¼…ê’8êÀ¢œÆ1
+L	java:S106"+Replace this use of System.out by a logger.(ÔúôÊúÿÿÿÿ8êÀ¢œÆ1
+G	java:S106#"+Replace this use of System.out by a logger.(Û‰Ã¡8£ £œÆ1
+V
+java:S1854'"9Remove this useless assignment to local variable "array".(¾Ã‡ë8ëÀ¢œÆ1
